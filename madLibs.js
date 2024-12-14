@@ -13,7 +13,7 @@ document.getElementById("madLibsForm").addEventListener("submit", function(event
     let time = document.getElementById("time").value;
   
     // Create the story
-    let story = "It was a cold yet sunny December day at " + adjective1 + " QuHacks. " + "I woke up at " + time + " to check my discord dms to see if my bestie was gonna pull up. I relized I was a bit pressed for time so I grabed my " + noun + " that my grandma got me for my birthday and left the house. Fortunately, the " + noun + " helped me to " + verb1 + " the car. I entered through the " + adjective2 + " doors and met some " + adjective3 + " people trying to " + verb2 + " it up. Finally, I met up with the homies and began coding our " + adjective4 + " game <i>Fortress.</i>";
+    let story = "It was a cold yet sunny December day at the " + adjective1 + " QuHacks. " + "I woke up at " + time + " and checked my discord dms to see if my bestie was gonna pull up. I realized I was a bit pressed for time so I grabbed my " + noun + " that my grandma got me for my birthday and left the house. Fortunately, the " + noun + " helped me to " + verb1 + " the car. I entered through the " + adjective2 + " doors and met some " + adjective3 + " people trying to " + verb2 + " it up. Finally, I met up with the homies and began coding our " + adjective4 + " game <i>Fortress.</i>";
     // Display the story";
     
     // 
