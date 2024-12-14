@@ -1,9 +1,17 @@
 .banner {
     font-family: "KTEGAKI";
-    size: 200pt;
+    font-size: 50pt;
     background-image: url("banner.jpg");
+    border-radius: 25px;
+    background-size: auto;
+    background-repeat: no-repeat;
+    vertical-align: text-top;
     position: absolute;
-    top: 0%;
+    top: 0;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    margin: 0;
     text-align: center;
 }
 h1 {
