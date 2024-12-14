@@ -7,10 +7,10 @@ ideas for games
 - snake
 - twenty questions
 - dot and boxes
-- hangman
+- ~~hangman~~
 - bingo
 - pacman
 - quiz game
 - memory game
-- buzzfeed style wuizzes
+- buzzfeed style quizzes
 - ~~soundeffect game thing (ie goat scream, seirn horn, idk)~~
