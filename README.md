@@ -1,8 +1,8 @@
 ideas for games 
 
-- tiktactoe
-- mad libs
-- ping pong
+- ~~tiktactoe~~
+- ~~mad libs~~
+- ~~ping pong~~
 - solitare
 - snake
 - twenty questions
