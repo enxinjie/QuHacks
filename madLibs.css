@@ -1,0 +1,12 @@
+label {
+    font-family: "KTEGAKI";
+}
+
+h1 {
+    font-family: "KTEGAKI";
+}
+
+@font-face {
+    font-family: KTEGAKI;
+    src: url(KTEGAKI.ttf);
+}
