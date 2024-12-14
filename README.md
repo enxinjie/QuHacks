@@ -13,4 +13,4 @@ ideas for games
 - quiz game
 - memory game
 - buzzfeed style wuizzes
-- soundeffect game thing (ie goat scream, seirn horn, idk)
+- ~~soundeffect game thing (ie goat scream, seirn horn, idk)~~
