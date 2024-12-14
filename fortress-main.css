@@ -1,0 +1,17 @@
+.banner {
+    font-family: "KTEGAKI";
+    size: 200pt;
+    background-image: url("banner.jpg");
+    position: absolute;
+    top: 0%;
+    text-align: center;
+}
+h1 {
+    font-family: "KTEGAKI";
+
+}
+
+@font-face {
+    font-family: KTEGAKI;
+    src: url(KTEGAKI.ttf);
+}
